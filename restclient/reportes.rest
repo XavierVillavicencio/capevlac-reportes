@@ -1,0 +1,4 @@
+@token=0e54dd6bb196fc7797bf2db6616a47f10930eaf2
+@url = https://apps.otca.org/documents/documents
+GET {{url}} HTTP/1.1
+Authorization: Bearer {{token}}
